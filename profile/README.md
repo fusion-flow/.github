@@ -4,14 +4,14 @@ A multimodal chatbot that supports text, audio, video and click inputs to suppor
 The project collaborates with the La Trobe University's Research Centre for Data Analytics and Cognition in Australia.
 
 - <b>Project Supervisors</b>
-    1. Dr. Uthayasanker Thayasivam
-    2. Prof. Damminda Alahakoon
-    3. Dr. Achini Adikari
-    4. Mr. Nuwan Pallewela
+    1. [Dr. Uthayasanker Thayasivam](https://rtuthaya.staff.uom.lk/) 
+    2. [Prof. Damminda Alahakoon](https://scholars.latrobe.edu.au/dalahakoon)
+    3. [Dr. Achini Adikari](https://scholars.latrobe.edu.au/aadikari)
+    4. [Mr. Nuwan Pallewela](https://scholars.latrobe.edu.au/npallewela)
 - <b>Contributors</b>
-    1. R.L.A. Sanduni Ayesha
-    2. L.B.H.M. Vijayarathna
-    3. N.P.A. Vithanage
+    1. [R.L.A. Sanduni Ayesha](http://datasearch.uom.lk/2/people.php?name=Sanduni_Ayesha)
+    2. [L.B.H.M. Vijayarathna](http://datasearch.uom.lk/2/people.php?name=Hasini_Vijayarathna)
+    3. [N.P.A. Vithanage](http://datasearch.uom.lk/2/people.php?name=Nipun_Pramuditha)
 
 ## Summary
 
